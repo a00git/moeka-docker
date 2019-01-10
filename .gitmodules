@@ -1,0 +1,9 @@
+[submodule "traefik"]
+	path = traefik
+	url = https://github.com/a00git/moeka-traefik.git
+[submodule "gitea"]
+	path = gitea
+	url = https://github.com/a00git/moeka-gitea.git
+[submodule "nextcloud"]
+	path = nextcloud
+	url = https://github.com/a00git/moeka-nextcloud.git
